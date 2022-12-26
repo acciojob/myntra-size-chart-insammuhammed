@@ -1,2 +1,17 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
 
-/* Your CSS Code here. */
+td, th{
+    border: 1px solid;
+
+}
+th{
+    background-color: brown;
+    color: white;
+   text-align: left;
+}
+
+
+  
